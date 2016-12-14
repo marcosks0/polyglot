@@ -1,4 +1,4 @@
-package polyglot.core;
+package polyglot.utils;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

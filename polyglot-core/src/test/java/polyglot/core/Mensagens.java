@@ -2,6 +2,8 @@ package polyglot.core;
 
 import java.io.FileNotFoundException;
 
+import polyglot.utils.TemplateBuilder;
+
 public interface Mensagens {
 
 	@Messages({
